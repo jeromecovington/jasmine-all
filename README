@@ -1,0 +1,6 @@
+Order of loading files is:
+jasmine-css.js
+jasmine.js
+jasmine-html.js
+boot.js
+
