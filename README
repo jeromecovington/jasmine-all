@@ -1,4 +1,4 @@
-Order of loading files is:
+Order of concatenated files is:
 jasmine-css.js
 jasmine.js
 jasmine-html.js
